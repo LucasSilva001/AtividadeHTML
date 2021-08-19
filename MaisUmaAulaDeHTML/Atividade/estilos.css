@@ -1,0 +1,63 @@
+.Tabela {
+    text-align: center ;
+}
+
+.FUNDO {
+ background-color: #010a5ce0;
+ text-align: center;
+}
+
+thead th {
+    background-color: #00053598;
+    text-align: center;
+}
+
+.OnePiece {
+    color: #c90f0f;
+    background-color: #f7a50cc9;
+    text-align: center;
+}
+
+.Naruto {
+    color: #c74900;
+    background-color: #f1ff28d7;
+    text-align: center;
+}
+
+.Dragon {
+    color: #000000;
+    background-color: #d33c00de;
+    text-align: center;
+}
+
+.OnePunch {
+    color: #ffffff;
+    background-color: #691900ec;
+    text-align: center;
+}
+
+.Note {
+    color: #915507;
+    background-color: #000000e3;
+    text-align: center;
+}
+
+.Boku {
+    color: #026907;
+    background-color: #00a2ffad;
+    text-align: center;
+}
+
+.Bleach {
+    color: #1a1919;
+    background-color: #9e1818e8;
+    text-align: center;
+}
+
+.Slayer {
+    color: #570303;
+    background-color: #013b04b2;
+    text-align: center;
+}
+
+

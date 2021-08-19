@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    border: solid 2px ;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#titulo h3 {
+    font-size: 23px;
+    text-align: center;
+
+}
+
+#paragrafo {
+    border: solid 2px ;
+}
+#paragrafo p {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#produto {
+    margin-top: 10px;
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.produtos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: solid 2px black;
+}
+
+#cabecalho h3, .produtos p, .produtos div {
+    width: 30%;
+    text-align: center;
+}
+.produtos div img {
+    width: 100px;
+}
